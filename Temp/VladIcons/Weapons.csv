@@ -1,0 +1,9 @@
+Название,@Icon,Тип,Rarity,Dice_Multiply,@Dice
+Кастет,knuckles.png,1.1 Кастеты,1,1,d4.png
+Шипованный кастет,knuckles_spiked.png,1.1 Кастеты,2,1,d6.png
+Кухонный нож,knife.png,1.2 Холодное,1,1,d4.png
+Тесак,cleaver.png,1.2 Холодное,1,1,d6.png
+Бейсбольная бита,baseball-bat.png,1.2 Холодное,1,1,d6.png
+Монтировка,crowbar.png,1.2 Холодное,1,1,d4.png
+Кувалда,sledgehammer.png,1.2 Холодное,1,1,d8.png
+Боевой нож,battle-knife.png,1.2 Холодное,1,1,d4.png
